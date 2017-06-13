@@ -1,0 +1,30 @@
+{
+  "name": "egg-ws",
+  "version": "0.0.1",
+  "description": "websocket plugin for egg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/egg-ws.git"
+  },
+  "keywords": [
+    "websocket",
+    "eggjs"
+  ],
+  "author": "tvrcgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/egg-ws/issues"
+  },
+  "homepage": "https://github.com/tvrcgo/egg-ws#readme",
+  "devDependencies": {
+    "egg-bin": "^3.4.2"
+  },
+  "dependencies": {
+    "egg": "^1.4.0",
+    "ws": "^3.0.0"
+  }
+}
